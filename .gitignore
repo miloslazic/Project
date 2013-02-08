@@ -1,0 +1,12 @@
+/TestProject/tmp
+/TestProject/modules
+/TestProject/lib
+/TestProject/test-result
+/TestProject/logs
+/TestProject/eclipse
+/TestProject/.project
+/TestProject/.classpath
+/TestProject/.settings
+*.bak
+/TestProject/db
+/TestProject/conf/eclipse
