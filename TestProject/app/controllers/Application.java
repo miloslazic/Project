@@ -12,7 +12,8 @@ public class Application extends Controller {
     public static void index() {
         render();
 		// hello first change!
-		// hello nameran konflikt
+		// hello secon change how are you?
+		// hello im fine
     }
 
 }
